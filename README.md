@@ -1,6 +1,6 @@
 <div align="center">
     <a href="" target="_blank">
-      <img src="" alt="Project Banner">
+      <!-- <img src="" alt="Project Banner"> -->
     </a>
   <h3 align="center">Amazon Scraper API</h3>
 </div>
